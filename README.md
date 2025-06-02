@@ -1,16 +1,40 @@
-## Hi there 👋
+```markdown
+# 👋 Hi there! I'm **Muhammad Asghar Ali Qureshi** 🚀
 
-<!--
-**muhammadasgharaliqureshi/muhammadasgharaliqureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Senior Cloud DevOps Engineer specializing in:
 
-Here are some ideas to get you started:
+🌐 **Cloud Infrastructure & Automation**: AWS (EC2, EKS, ECS, Lambda, Bedrock), Terraform, Ansible, CloudFormation  
+☸️ **Container Orchestration**: Kubernetes, Docker, GPU container optimization  
+🔐 **Security & Compliance**: FIDO2/Yubikey, IAM, AWS Config, VPC Security  
+🔧 **CI/CD Pipelines**: Jenkins, GitLab CI/CD, AWS CodePipeline, GitHub Actions  
+📈 **Monitoring & Observability**: Prometheus, Grafana, CloudWatch, Athena  
+💻 **Languages**: Python, Go, Bash, C/C++, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me:
+
+- 📍 Based in Islamabad, Pakistan — open to relocation and remote opportunities.
+- 💼 Passionate about automating complex deployments and building secure, scalable cloud solutions.
+- 🧑‍💻 Always learning, mentoring, and exploring new technologies.
+- 🎯 Focused on high availability, cost optimization, and operational excellence.
+
+---
+
+## 📌 Latest Highlights:
+
+- 🚀 Deployed GPU-optimized containers on Kubernetes for AI workloads.
+- 🔐 Implemented enterprise-grade security with FIDO2/Yubikey authentication.
+- 📊 Integrated real-time monitoring with Prometheus and Grafana.
+- ⚙️ Automated deployments with Terraform and Ansible for seamless scalability.
+
+---
+
+## 💬 Connect with me:
+
+- 🌐 [Website](https://asghar-qureshi.com)
+- 💼 [LinkedIn](https://linkedin.com/in/asghar-qureshi)
+- 📨 Email: asgharaliq99@gmail.com
+
+Let's connect and build awesome things together! 🚀
+```
